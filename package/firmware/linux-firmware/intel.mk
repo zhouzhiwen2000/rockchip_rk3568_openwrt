@@ -175,6 +175,7 @@ define Package/iwlwifi-firmware-ax200/install
 endef
 $(eval $(call BuildPackage,iwlwifi-firmware-ax200))
 
+<<<<<<< HEAD
 Package/iwlwifi-firmware-ax201 = $(call Package/firmware-default,Intel AX201 firmware)
 define Package/iwlwifi-firmware-ax201/install
 	$(INSTALL_DIR) $(1)/lib/firmware
@@ -182,6 +183,8 @@ define Package/iwlwifi-firmware-ax201/install
 endef
 $(eval $(call BuildPackage,iwlwifi-firmware-ax201))
 
+=======
+>>>>>>> 30f160bc8... Merged changes from internal repo.
 Package/iwlwifi-firmware-ax210 = $(call Package/firmware-default,Intel AX210 firmware)
 define Package/iwlwifi-firmware-ax210/install
 	$(INSTALL_DIR) $(1)/lib/firmware
