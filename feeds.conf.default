@@ -1,4 +1,4 @@
-src-git packages https://github.com/photonicat/rockchip_rk3568_openwrt_packages.git
+src-git packages https://github.com/zhouzhiwen2000/rockchip_rk3568_openwrt_packages.git
 src-git luci https://github.com/photonicat/rockchip_rk3568_openwrt_luci.git
 src-git routing https://github.com/photonicat/rockchip_rk3568_openwrt_routing.git
 src-git telephony https://github.com/photonicat/rockchip_rk3568_openwrt_telephony.git
