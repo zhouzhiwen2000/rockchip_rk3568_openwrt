@@ -15,6 +15,7 @@
 /files/lib/modules
 /overlay
 /package/feeds
+/package/helloworld
 /package/openwrt-packages
 key-build*
 *.orig
